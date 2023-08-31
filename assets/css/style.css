@@ -3,7 +3,12 @@
     height: 100px;
 }
 
-.top-section {
+.top-heading {
+    background-color: #628b6b;
+    height: 50px;
+}
+
+.heading-space {
     background-color: #628b6b;
     height: 20px;
 }
