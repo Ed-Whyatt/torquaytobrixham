@@ -3,7 +3,13 @@ body {
     margin: 0;
 }
 
+.link-text {
+    color: #000 !important;
+}
 
+.link-text:hover {
+    font-weight: 500;
+}
 
 .footer-container {
     background-color: #628b6b;
